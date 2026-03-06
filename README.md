@@ -1,3 +1,12 @@
+## Copyright and Licensing
+© [2026] [Srinath Kuruva]. All rights reserved.
+
+This project is provided for demonstration purposes only and is not intended for commercial use, modification, or redistribution without explicit written consent from the author. All intellectual property rights remain with the author
+
+## Prerequisites
+* googlecolab
+* Jupyter
+
 # BRAND-BUILDING-WITH-MULTIMODAL-GENERATIVE-AI
 Aufbau einer automatisierten Marketing Pipeline mit Visual-, Audio- und Video Generierungsmodellen
 Overview
